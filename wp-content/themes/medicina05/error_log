@@ -1,0 +1,44 @@
+[31-Jan-2021 00:33:10 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/neomax27/public_html/wp-content/themes/medicina05/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/neomax27/public_html/wp-content/themes/medicina05/index.php on line 2
+[01-Feb-2021 20:49:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function swpsmtp_credentials_configured() in /home1/neomax27/public_html/wp-content/themes/medicina05/send-mail-captcha.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/neomax27/public_html/wp-content/themes/medicina05/send-mail-captcha.php on line 37
+[01-Feb-2021 20:50:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function swpsmtp_credentials_configured() in /home1/neomax27/public_html/wp-content/themes/medicina05/send-mail-captcha.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/neomax27/public_html/wp-content/themes/medicina05/send-mail-captcha.php on line 37
+[08-Feb-2021 11:23:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function swpsmtp_credentials_configured() in /home1/neomax27/public_html/wp-content/themes/medicina05/send-mail-captcha.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/neomax27/public_html/wp-content/themes/medicina05/send-mail-captcha.php on line 37
+[30-Mar-2021 23:16:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function swpsmtp_credentials_configured() in /home1/neomax27/public_html/wp-content/themes/medicina05/send-mail-captcha.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/neomax27/public_html/wp-content/themes/medicina05/send-mail-captcha.php on line 37
+[04-Jul-2021 01:24:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function swpsmtp_credentials_configured() in /home1/neomax27/public_html/wp-content/themes/medicina05/send-mail-captcha.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/neomax27/public_html/wp-content/themes/medicina05/send-mail-captcha.php on line 37
+[16-Jul-2021 13:08:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function swpsmtp_credentials_configured() in /home1/neomax27/public_html/wp-content/themes/medicina05/send-mail-captcha.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/neomax27/public_html/wp-content/themes/medicina05/send-mail-captcha.php on line 37
+[09-Aug-2021 11:35:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function swpsmtp_credentials_configured() in /home1/neomax27/public_html/wp-content/themes/medicina05/send-mail-captcha.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/neomax27/public_html/wp-content/themes/medicina05/send-mail-captcha.php on line 37
+[02-Sep-2021 11:15:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function swpsmtp_credentials_configured() in /home1/neomax27/public_html/wp-content/themes/medicina05/send-mail-captcha.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/neomax27/public_html/wp-content/themes/medicina05/send-mail-captcha.php on line 37
+[10-Sep-2021 03:30:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function swpsmtp_credentials_configured() in /home1/neomax27/public_html/wp-content/themes/medicina05/send-mail-captcha.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/neomax27/public_html/wp-content/themes/medicina05/send-mail-captcha.php on line 37
+[24-Sep-2021 18:34:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function swpsmtp_credentials_configured() in /home1/neomax27/public_html/wp-content/themes/medicina05/send-mail-captcha.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/neomax27/public_html/wp-content/themes/medicina05/send-mail-captcha.php on line 37

@@ -1,0 +1,70 @@
+.wsg-servicos-intena-01{
+	padding: 60px 0;
+}
+.wsg-servicos-intena-01 figure{
+	margin-bottom: 20px;
+}
+.wsg-servicos-intena-01 figure img{
+	display: block;
+	height: auto;
+	width: 100%;
+}
+.wsg-servicos-intena-01 article h2{
+	font-size: 25px;
+	margin-bottom: 20px;
+}
+.wsg-servicos-intena-01 h3{
+	font-size: 22px;
+	font-weight: 500;
+	margin-bottom: 20px;
+}
+.wsg-servicos-intena-01 p{
+	margin-bottom: 15px;
+}
+.wsg-servicos-intena-01 ul li{margin-bottom: 10px;}
+.wsg-servicos-intena-01 ul li a{
+	display:flex;
+	justify-content: space-between;
+	flex-wrap: nowrap;
+	padding: 12px 20px;
+	background-color: #f3f5f9;
+	color: #666;
+	font-size: 14px;
+	text-transform: capitalize;
+	border-right: 4px solid;
+	border-right-color: transparent;
+	transition: all linear .2s;
+}
+.wsg-servicos-intena-01 ul li a:hover{
+	border-right-color: #f48634;
+	color: #f48634;
+}
+.wsg-servicos-intena-01 ul li a:hover span:last-child{
+	opacity: 1;
+}
+.wsg-servicos-intena-01 ul li a span:last-child{
+	font-weight: 900;
+	font-size: 11px;
+	color: #f48634;
+	opacity: 0;
+	transition: all linear .2s;
+}
+
+.wsg-servico_form form input,
+.wsg-servico_form form textarea{
+	border: 1px solid;
+	border-color: #f3f5f9;
+	padding: 12px 20px;
+	width: calc(100% - 42px);
+	background-color: #f3f5f9;
+	margin-bottom: 10px;
+	transition: all linear .2s;
+}
+.wsg-servico_form form textarea{
+	height: 110px;
+}
+.wsg-servico_form form input:focus,
+.wsg-servico_form form textarea:focus{
+	border-color: #f48634;
+	background-color: #fff;
+}

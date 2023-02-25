@@ -1,0 +1,19 @@
+.wsg-empresa_01{
+	padding: 60px 0;
+	background-color: #f3f5f9;
+	text-align: center;
+}
+
+.wsg-empresa_01 span img{
+	display: block;
+	width: 64px;
+	height: 64px;
+	margin: 0 auto;
+	margin-bottom: 25px;
+}
+
+.wsg-empresa_01 h3{
+	font-size: 20px;
+	font-weight: 500;
+	margin-bottom: 25px;
+}

@@ -1,0 +1,28 @@
+.wsg-blog_01 h2{
+	font-size: 40px;
+	font-weight: 600;
+	margin-bottom: 20px;
+}
+.wsg-blog_01 p{
+	padding: 20px 40px;
+	margin-top: 10px;
+}
+.wsg-blog_01 figure img{
+	display: block;
+	width: 100%;
+	height: 440px;
+}
+.wsg-ultimos-posts figure{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 66px;
+	height: 66px;
+	margin-right: 20px;
+}
+.wsg-ultimos-posts figure img{
+	display: block;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}

@@ -1,0 +1,47 @@
+.wsg-servicos-intena-01{
+	padding: 60px 0;
+}
+.wsg-servicos-intena-01 figure{
+	margin-bottom: 20px;
+}
+.wsg-servicos-intena-01 figure img{
+	display: block;
+	height: 560px;
+	width: 100%;
+}
+.wsg-servicos-intena-01 h3{
+	font-size: 24px;
+	font-weight: 500;
+	margin-bottom: 20px;
+}
+.wsg-servicos-intena-01 p{
+	margin-bottom: 15px;
+}
+.wsg-servicos-intena-01 ul li a{
+	display:flex;
+	justify-content: space-between;
+	flex-wrap: nowrap;
+	padding: 25px;
+	margin-bottom: 1px;
+	background-color: #ecf1f8;
+	color: #6d7a8c;
+	font-size: 14px;
+	text-transform: capitalize;
+	border-right: 4px solid;
+	border-right-color: transparent;
+	transition: all linear .2s;
+}
+.wsg-servicos-intena-01 ul li a:hover{
+	border-right-color: #0065b3;
+	color: #0065b3;
+}
+.wsg-servicos-intena-01 ul li a:hover span:last-child{
+	opacity: 1;
+}
+.wsg-servicos-intena-01 ul li a span:last-child{
+	font-weight: 900;
+	font-size: 11px;
+	color: #0065b3;
+	opacity: 0;
+	transition: all linear .2s;
+}
